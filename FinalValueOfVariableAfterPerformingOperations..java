@@ -11,11 +11,11 @@ class Solution {
             }
             else if(operations[i].equals("X--"))
             {
-                  count=count-1;
+                 count=count-1;
             }
             else if(operations[i].equals("X++"))
             {
-                count=count+1;
+                 count=count+1;
             }
             else if(operations[i].equals("++X"))
             {
